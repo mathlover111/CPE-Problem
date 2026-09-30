@@ -10,4 +10,4 @@
 | **Uva 10071** | Back to High School Physics | [Uva-10071.c](https://github.com/mathlover111/CPE-Problem/blob/main/Uva-10071.c) |
 | **Uva 10783** | Odd Sum | [Uva-10783.c](https://github.com/mathlover111/CPE-Problem/blob/main/Uva-10783.c) |
 | **Uva 10931** | Parity  | [Uva-10931.c](https://github.com/mathlover111/CPE-Problem/blob/main/Uva-10931.c) |
-| **Uva 10035** | Primary Arithmetic |  []()|          |
+| **Uva 10035** | Primary Arithmetic |  [Uva-10035.c](https://github.com/mathlover111/CPE-Problem/blob/main/Uva-10035.c)|          |
