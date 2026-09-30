@@ -10,4 +10,5 @@
 | **UVa 10071** | Back to High School Physics | [Uva-10071.c](https://github.com/mathlover111/CPE-Problem/blob/main/Uva-10071.c) |
 | **UVa 10783** | Odd Sum | [Uva-10783.c](https://github.com/mathlover111/CPE-Problem/blob/main/Uva-10783.c) |
 | **UVa 10931** | Parity  | [Uva-10931.c](https://github.com/mathlover111/CPE-Problem/blob/main/Uva-10931.c) |
-| **UVa 10035** | Primary Arithmetic |  [Uva-10035.c](https://github.com/mathlover111/CPE-Problem/blob/main/Uva-10035.c)|          |
+| **UVa 10035** | Primary Arithmetic |  [Uva-10035.c](https://github.com/mathlover111/CPE-Problem/blob/main/Uva-10035.c)|  
+| **UVa 10235** | Simply Emirp | [Uva-10235.c]()|
