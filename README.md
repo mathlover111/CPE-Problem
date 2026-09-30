@@ -9,3 +9,4 @@
 | **Uva 10242** |              | []() |
 | **Uva 10071** | Back to High School Physics | []() |
 | **Uva 10783** | Odd Sum | []() |
+| **Uva 10931** |         | []() |
