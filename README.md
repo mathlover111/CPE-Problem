@@ -6,7 +6,7 @@
 | **UVa 272** | TEX Quotes | [Uva-272.c]() |
 | **UVa 299** | Train Swapping | [Uva-299.c]() |
 | **Uva 10008** | What's Cryptanalysis | [Uva-10008.c]() |
-| **Uva 10242** |              | []() |
+| **Uva 10242** | Fourth Point! | []() |
 | **Uva 10071** | Back to High School Physics | []() |
 | **Uva 10783** | Odd Sum | []() |
 | **Uva 10931** | Parity  | []() |
