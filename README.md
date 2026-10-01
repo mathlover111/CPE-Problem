@@ -12,3 +12,4 @@
 | **UVa 10931** | Parity  | [Uva-10931.c](https://github.com/mathlover111/CPE-Problem/blob/main/Uva-10931.c) |
 | **UVa 10035** | Primary Arithmetic |  [Uva-10035.c](https://github.com/mathlover111/CPE-Problem/blob/main/Uva-10035.c)|  
 | **UVa 10235** | Simply Emirp | [Uva-10235.c](https://github.com/mathlover111/CPE-Problem/blob/main/Uva-10235.c)|
+|                |           |                                                                                     |
