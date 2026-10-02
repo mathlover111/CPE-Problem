@@ -12,5 +12,5 @@
 | **UVa 10931** | Parity  | [Uva-10931.c](https://github.com/mathlover111/CPE-Problem/blob/main/Uva-10931.c) |
 | **UVa 10035** | Primary Arithmetic |  [Uva-10035.c](https://github.com/mathlover111/CPE-Problem/blob/main/Uva-10035.c)|  
 | **UVa 10235** | Simply Emirp | [Uva-10235.c](https://github.com/mathlover111/CPE-Problem/blob/main/Uva-10235.c)|
-| **UVa 10922** | 2 the 9s | [Uva-10922.c](https://github.com/mathlover111/CPE-Problem/blob/main/Uva-10922.c)|                                         | **UVa 10038** | Jolly Jumpers | [Uva-10038.c]()|
+| **UVa 10922** | 2 the 9s | [Uva-10922.c](https://github.com/mathlover111/CPE-Problem/blob/main/Uva-10922.c)|                                         | **UVa 10038** | Jolly Jumpers | [Uva-10038.c]() |
 | **UVa 10190** | Divide, But Not Quite Conquer! | [Uva-10190.c]() |
