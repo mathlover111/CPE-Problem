@@ -16,5 +16,5 @@
 | **UVa 10038** | Jolly Jumpers | [Uva-10038.c](https://github.com/mathlover111/CPE-Problem/blob/main/Uva-10038.c) |
 | **UVa 10190** | Divide, But Not Quite Conquer! | [Uva-10190.c](https://github.com/mathlover111/CPE-Problem/blob/main/Uva-10190.c) |
 | **UVa 10101** |  Bangla Numbers | [Uva-10101.c](https://github.com/mathlover111/CPE-Problem/blob/main/Uva-10101.c)  |
-| **Uva 11461** | Square Numbers | [Uva-11461.c](https://github.com/mathlover111/CPE-Problem/blob/main/Uva-11461.c)|
-| **Uva 11063** | B2-Sequence |[]()|
+| **UVa 11461** | Square Numbers | [Uva-11461.c](https://github.com/mathlover111/CPE-Problem/blob/main/Uva-11461.c)|
+| **UVa 11063** | B2-Sequence |[Uva-11063.c](https://github.com/mathlover111/CPE-Problem/blob/main/Uva-11063.c)|
