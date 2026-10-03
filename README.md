@@ -18,3 +18,4 @@
 | **UVa 10101** |  Bangla Numbers | [Uva-10101.c](https://github.com/mathlover111/CPE-Problem/blob/main/Uva-10101.c)  |
 | **UVa 11461** | Square Numbers | [Uva-11461.c](https://github.com/mathlover111/CPE-Problem/blob/main/Uva-11461.c)|
 | **UVa 11063** | B2-Sequence |[Uva-11063.c](https://github.com/mathlover111/CPE-Problem/blob/main/Uva-11063.c)|
+| **UVa 00490** | Rotating Sentences | [Uva-00490.c](https://github.com/mathlover111/CPE-Problem/blob/main/Uva-00490.c)   |
