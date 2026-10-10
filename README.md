@@ -21,4 +21,4 @@
 | **UVa 00490** | Rotating Sentences | [Uva-00490.c](https://github.com/mathlover111/CPE-Problem/blob/main/Uva-00490.c) ||1星題|
 | **UVa 10057** | A mid-summer night's dream.|[Uva-10057.c](https://github.com/mathlover111/CPE-Problem/blob/main/Uva-10057.c) ||1星題|
 | **UVa 10642**|	Can You Solve It? |[Uva-10642.c](https://github.com/mathlover111/CPE-Problem/blob/main/Uva-10642.c)||1星題|
-| **UVa 00948** | Fibonaccimal Base |[Uva-00948.c](https://github.com/mathlover111/CPE-Problem/blob/main/Uva-00948.c) | |1星題|
+| **UVa 00948** | Fibonaccimal Base |[Uva-00948.c](https://github.com/mathlover111/CPE-Problem/blob/main/Uva-00948.c) |[題目說明](https://github.com/mathlover111/CPE-Problem/blob/main/topic/p948.pdf) |1星題|
