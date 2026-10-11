@@ -24,5 +24,5 @@
 | **UVa 00948** | Fibonaccimal Base |[Uva-00948.c](https://github.com/mathlover111/CPE-Problem/blob/main/Uva-00948.c) |[題目說明](https://github.com/mathlover111/CPE-Problem/blob/main/topic/p948.pdf) |1星題|
 |**UVa 10222**| Decode the Mad man |[Uva-10222.c](https://github.com/mathlover111/CPE-Problem/blob/main/Uva-10222.c) |[題目說明](https://github.com/mathlover111/CPE-Problem/blob/main/topic/p10222.pdf)|1星題|
 |**UVa 00118**| Mutant Flatworld Explorers |[Uva-00118.c](https://github.com/mathlover111/CPE-Problem/blob/main/Uva-00118.c)|[題目說明](https://github.com/mathlover111/CPE-Problem/blob/main/topic/p118.pdf)|1星題|   
-|**UVa 10409**|    |[Uva-10409.c](https://github.com/mathlover111/CPE-Problem/blob/main/Uva-10409.c)|[題目說明]()|1星題|
+|**UVa 10409**| Die Game |[Uva-10409.c](https://github.com/mathlover111/CPE-Problem/blob/main/Uva-10409.c)|[題目說明]()|1星題|
 
