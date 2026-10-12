@@ -27,3 +27,4 @@
 |**UVa 10409**| Die Game |[Uva-10409.c](https://github.com/mathlover111/CPE-Problem/blob/main/Uva-10409.c)|[題目說明](https://github.com/mathlover111/CPE-Problem/blob/main/topic/p10409.pdf)|1星題|
 |**UVa 11349**| Symmetric Matrix |[Uva-11349.c](https://github.com/mathlover111/CPE-Problem/blob/main/Uva-11349.c)|[題目說明](https://github.com/mathlover111/CPE-Problem/blob/main/topic/p11349.pdf)|1星題|
 |**UVa 11417**| GCD |[Uva-11417.c](https://github.com/mathlover111/CPE-Problem/blob/main/Uva-11417.c)|[題目說明](https://github.com/mathlover111/CPE-Problem/blob/main/topic/p11417.pdf)|1星題|
+| **UVa 11150**| Cola |[UVa-11150.c](https://github.com/mathlover111/CPE-Problem/blob/main/UVa-11150.c)|[題目說明](https://github.com/mathlover111/CPE-Problem/blob/main/topic/p11150.pdf)|1星題|
