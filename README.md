@@ -33,4 +33,4 @@
 |**UVa 10812**| Beat the Spread!|[UVa-10812.c](https://github.com/mathlover111/CPE-Problem/blob/main/UVa-10812.c)|[題目說明](https://github.com/mathlover111/CPE-Problem/blob/main/topic/p10812.pdf)|1星題|
 |**UVa 10929** |You can say 11|[UVa-10929.c](https://github.com/mathlover111/CPE-Problem/blob/main/UVa-10929.c)|[題目說明](https://github.com/mathlover111/CPE-Problem/blob/main/topic/p10929.pdf)|1星題|
 |**UVa 10041** |Vito's Family|[UVa-10041.c](https://github.com/mathlover111/CPE-Problem/blob/main/UVa-10041.c)|[題目說明](https://github.com/mathlover111/CPE-Problem/blob/main/topic/p10041.pdf)|1星題|
-|**UVa 10908**| Largest Square |[UVa-10908.c](https://github.com/mathlover111/CPE-Problem/blob/main/UVa-10908.c)|[題目說明]()|1星題|
+|**UVa 10908**| Largest Square |[UVa-10908.c](https://github.com/mathlover111/CPE-Problem/blob/main/UVa-10908.c)|[題目說明](https://github.com/mathlover111/CPE-Problem/blob/main/topic/p10908.pdf)|1星題|
