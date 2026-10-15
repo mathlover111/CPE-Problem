@@ -29,5 +29,5 @@
 |**UVa 11417**| GCD |[Uva-11417.c](https://github.com/mathlover111/CPE-Problem/blob/main/Uva-11417.c)|[題目說明](https://github.com/mathlover111/CPE-Problem/blob/main/topic/p11417.pdf)|1星題|
 | **UVa 11150**| Cola |[UVa-11150.c](https://github.com/mathlover111/CPE-Problem/blob/main/UVa-11150.c)|[題目說明](https://github.com/mathlover111/CPE-Problem/blob/main/topic/p11150.pdf)|1星題|
 |**UVa 10415**|Eb Alto Saxophone Player|[UVa-10415.c](https://github.com/mathlover111/CPE-Problem/blob/main/UVa-10415.c)|[題目說明](https://github.com/mathlover111/CPE-Problem/blob/main/topic/p10415.pdf)|1星題|
-|**UVa 10420**| List of Conquests |[UVa-10420.c](https://github.com/mathlover111/CPE-Problem/blob/main/UVa-10420.c)|[題目說明]()| 1星題 |
-|**UVa 10812**| Beat the Spread!|
+|**UVa 10420**| List of Conquests |[UVa-10420.c](https://github.com/mathlover111/CPE-Problem/blob/main/UVa-10420.c)|[題目說明](https://github.com/mathlover111/CPE-Problem/blob/main/topic/p10420.pdf)| 1星題 |
+|**UVa 10812**| Beat the Spread!|[UVa-10812.c]()|[題目說明]()|1星題|
