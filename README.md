@@ -36,3 +36,4 @@
 |**UVa 10908**| Largest Square |[UVa-10908.c](https://github.com/mathlover111/CPE-Problem/blob/main/UVa-10908.c)|[題目說明](https://github.com/mathlover111/CPE-Problem/blob/main/topic/p10908.pdf)|1星題|
 |**UVa 11332** | Summing Digits|[UVa-11332.c](https://github.com/mathlover111/CPE-Problem/blob/main/UVa-11332.c)|[題目說明](https://github.com/mathlover111/CPE-Problem/blob/main/topic/p11332.pdf)|1星題|
 |**UVa 10056** | What is the Probability?|[UVa-10056.c](https://github.com/mathlover111/CPE-Problem/blob/main/UVa-10056.c)|[題目說明](https://github.com/mathlover111/CPE-Problem/blob/main/topic/p10056.pdf)|1星題|
+|**UVa 10093**| An Easy Problem!|[UVa-10093.c](https://github.com/mathlover111/CPE-Problem/blob/main/UVa-10093.c)|[題目說明](https://github.com/mathlover111/CPE-Problem/blob/main/topic/p10093.pdf)|1星題|
