@@ -38,5 +38,5 @@
 |**UVa 10056** | What is the Probability?|[UVa-10056.c](https://github.com/mathlover111/CPE-Problem/blob/main/UVa-10056.c)|[題目說明](https://github.com/mathlover111/CPE-Problem/blob/main/topic/p10056.pdf)|1星題|
 |**UVa 10093**| An Easy Problem!|[UVa-10093.c](https://github.com/mathlover111/CPE-Problem/blob/main/UVa-10093.c)|[題目說明](https://github.com/mathlover111/CPE-Problem/blob/main/topic/p10093.pdf)|1星題|
 |**UVa 10050**||[UVa-10050.c](https://github.com/mathlover111/CPE-Problem/blob/main/UVa-10050.c)|[題目說明]()|1星題|
-|**UVa 10062**|[UVa-10062.c]()|[題目說明]()|1星題|
+|**UVa 10062**||[UVa-10062.c]()|[題目說明]()|1星題|
 
