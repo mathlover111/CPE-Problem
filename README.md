@@ -42,3 +42,4 @@
 |**UVa 10170**|The Hotel with Infinite Rooms|[UVa-10170.c](https://github.com/mathlover111/CPE-Problem/blob/main/UVa-10170.c)|[題目說明](https://github.com/mathlover111/CPE-Problem/blob/main/topic/p10170.pdf)|1星題|
 |**UVa 10268**|498-bis|[UVa-10268.c](https://github.com/mathlover111/CPE-Problem/blob/main/UVa-10268.c)|[題目說明](https://github.com/mathlover111/CPE-Problem/blob/main/topic/p10268.pdf)|1星題|
 |**UVa 10193**|All you need is love|[UVa-10193.c](https://github.com/mathlover111/CPE-Problem/blob/main/UVa-10193.c)|[題目說明](https://github.com/mathlover111/CPE-Problem/blob/main/topic/p10193.pdf)|1星題|
+|**UVa 10221**||[UVa-10221.c](https://github.com/mathlover111/CPE-Problem/blob/main/UVa-10221.c)|[題目說明](https://github.com/mathlover111/CPE-Problem/blob/main/topic/p10221.pdf)|1星題|
