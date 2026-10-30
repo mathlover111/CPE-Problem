@@ -44,3 +44,4 @@
 |**UVa 10193**|All you need is love|[UVa-10193.c](https://github.com/mathlover111/CPE-Problem/blob/main/UVa-10193.c)|[題目說明](https://github.com/mathlover111/CPE-Problem/blob/main/topic/p10193.pdf)|1星題|
 |**UVa 10221**|Satellites|[UVa-10221.c](https://github.com/mathlover111/CPE-Problem/blob/main/UVa-10221.c)|[題目說明](https://github.com/mathlover111/CPE-Problem/blob/main/topic/p10221.pdf)|1星題|
 |**UVa 11005**|Cheapst Base|[UVa-11005.c]()|[題目說明]()|1星題|
+|**UVa 11321**|Sort!Sort! and Sort|[UVa-11321.c]()|[題目說明]()|1星題|
