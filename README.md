@@ -44,6 +44,6 @@
 |**UVa 10193**|All you need is love|[UVa-10193.c](https://github.com/mathlover111/CPE-Problem/blob/main/UVa-10193.c)|[題目說明](https://github.com/mathlover111/CPE-Problem/blob/main/topic/p10193.pdf)|1星題|40|
 |**UVa 10221**|Satellites|[UVa-10221.c](https://github.com/mathlover111/CPE-Problem/blob/main/UVa-10221.c)|[題目說明](https://github.com/mathlover111/CPE-Problem/blob/main/topic/p10221.pdf)|1星題|41|
 |**UVa 11005**|Cheapst Base|[UVa-11005.c]()|[題目說明]()|1星題|42|
-|**UVa 11321**|Sort!Sort! and Sort|[UVa-11321.c]()|[題目說明]()|1星題|43|
+|**UVa 11321**|Sort!Sort! and Sort|[UVa-11321.c](https://github.com/mathlover111/CPE-Problem/blob/main/UVa-11321.c)|[題目說明](https://github.com/mathlover111/CPE-Problem/blob/main/topic/p11321.pdf)|1星題|43|
 |**UVa 10226**|Hardwood Species|[UVa-10226.c](https://github.com/mathlover111/CPE-Problem/blob/main/UVa-10226.c)|[題目說明](https://github.com/mathlover111/CPE-Problem/blob/main/topic/p10226.pdf)|1星題|44|
 |**UVa 10189**|Minesweeper|[UVa-10189.c](https://github.com/mathlover111/CPE-Problem/blob/main/UVa-10189.c)|[題目說明](https://github.com/mathlover111/CPE-Problem/blob/main/topic/p10189.pdf)|1星題|45|
