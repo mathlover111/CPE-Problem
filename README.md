@@ -1,49 +1,49 @@
 ## 這是一個CPE題目解題，採用C語言進行撰寫
 
-| 題號 | 題目名稱 | 連結 | 題目 | 描述 |
-| :---: | :--- | :---: |:---: | :---:|
-| **UVa 100** | The 3n + 1 problem | [Uva-100.c](https://github.com/mathlover111/CPE-Problem/blob/main/Uva-100.c) ||1星題|
-| **UVa 272** | TEX Quotes | [Uva-272.c](https://github.com/mathlover111/CPE-Problem/blob/main/Uva-272.c) ||1星題|
-| **UVa 299** | Train Swapping | [Uva-299.c](https://github.com/mathlover111/CPE-Problem/blob/main/Uva-299.c) ||1星題|
-| **UVa 10008** | What's Cryptanalysis | [Uva-10008.c](https://github.com/mathlover111/CPE-Problem/blob/main/Uva-10008.c) ||1星題|
-| **UVa 10242** | Fourth Point! | [Uva-10242.c](https://github.com/mathlover111/CPE-Problem/blob/main/Uva-10242.c) ||1星題|
-| **UVa 10071** | Back to High School Physics | [Uva-10071.c](https://github.com/mathlover111/CPE-Problem/blob/main/Uva-10071.c) ||1星題|
-| **UVa 10783** | Odd Sum | [Uva-10783.c](https://github.com/mathlover111/CPE-Problem/blob/main/Uva-10783.c) ||1星題|
-| **UVa 10931** | Parity  | [Uva-10931.c](https://github.com/mathlover111/CPE-Problem/blob/main/Uva-10931.c) ||1星題|
-| **UVa 10035** | Primary Arithmetic |  [Uva-10035.c](https://github.com/mathlover111/CPE-Problem/blob/main/Uva-10035.c)||1星題|  
-| **UVa 10235** | Simply Emirp | [Uva-10235.c](https://github.com/mathlover111/CPE-Problem/blob/main/Uva-10235.c)||1星題|
-| **UVa 10922** | 2 the 9s | [Uva-10922.c](https://github.com/mathlover111/CPE-Problem/blob/main/Uva-10922.c)| |1星題|
-| **UVa 10038** | Jolly Jumpers | [Uva-10038.c](https://github.com/mathlover111/CPE-Problem/blob/main/Uva-10038.c) ||1星題|
-| **UVa 10190** | Divide, But Not Quite Conquer! | [Uva-10190.c](https://github.com/mathlover111/CPE-Problem/blob/main/Uva-10190.c) ||1星題|
-| **UVa 10101** |  Bangla Numbers | [Uva-10101.c](https://github.com/mathlover111/CPE-Problem/blob/main/Uva-10101.c)  ||1星題|
-| **UVa 11461** | Square Numbers | [Uva-11461.c](https://github.com/mathlover111/CPE-Problem/blob/main/Uva-11461.c)||1星題|
-| **UVa 11063** | B2-Sequence |[Uva-11063.c](https://github.com/mathlover111/CPE-Problem/blob/main/Uva-11063.c)||1星題|
-| **UVa 00490** | Rotating Sentences | [Uva-00490.c](https://github.com/mathlover111/CPE-Problem/blob/main/Uva-00490.c) |[題目說明](https://github.com/mathlover111/CPE-Problem/blob/main/topic/p490.pdf)|1星題|
-| **UVa 10057** | A mid-summer night's dream.|[Uva-10057.c](https://github.com/mathlover111/CPE-Problem/blob/main/Uva-10057.c) |[題目說明](https://github.com/mathlover111/CPE-Problem/blob/main/topic/p10057.pdf)|1星題|
-| **UVa 10642**|	Can You Solve It? |[Uva-10642.c](https://github.com/mathlover111/CPE-Problem/blob/main/Uva-10642.c)|[題目說明](https://github.com/mathlover111/CPE-Problem/blob/main/topic/p10642.pdf)|1星題|
-| **UVa 00948** | Fibonaccimal Base |[Uva-00948.c](https://github.com/mathlover111/CPE-Problem/blob/main/Uva-00948.c) |[題目說明](https://github.com/mathlover111/CPE-Problem/blob/main/topic/p948.pdf) |1星題|
-|**UVa 10222**| Decode the Mad man |[Uva-10222.c](https://github.com/mathlover111/CPE-Problem/blob/main/Uva-10222.c) |[題目說明](https://github.com/mathlover111/CPE-Problem/blob/main/topic/p10222.pdf)|1星題|
-|**UVa 00118**| Mutant Flatworld Explorers |[Uva-00118.c](https://github.com/mathlover111/CPE-Problem/blob/main/Uva-00118.c)|[題目說明](https://github.com/mathlover111/CPE-Problem/blob/main/topic/p118.pdf)|1星題|   
-|**UVa 10409**| Die Game |[Uva-10409.c](https://github.com/mathlover111/CPE-Problem/blob/main/Uva-10409.c)|[題目說明](https://github.com/mathlover111/CPE-Problem/blob/main/topic/p10409.pdf)|1星題|
-|**UVa 11349**| Symmetric Matrix |[Uva-11349.c](https://github.com/mathlover111/CPE-Problem/blob/main/Uva-11349.c)|[題目說明](https://github.com/mathlover111/CPE-Problem/blob/main/topic/p11349.pdf)|1星題|
-|**UVa 11417**| GCD |[Uva-11417.c](https://github.com/mathlover111/CPE-Problem/blob/main/Uva-11417.c)|[題目說明](https://github.com/mathlover111/CPE-Problem/blob/main/topic/p11417.pdf)|1星題|
-| **UVa 11150**| Cola |[UVa-11150.c](https://github.com/mathlover111/CPE-Problem/blob/main/UVa-11150.c)|[題目說明](https://github.com/mathlover111/CPE-Problem/blob/main/topic/p11150.pdf)|1星題|
-|**UVa 10415**|Eb Alto Saxophone Player|[UVa-10415.c](https://github.com/mathlover111/CPE-Problem/blob/main/UVa-10415.c)|[題目說明](https://github.com/mathlover111/CPE-Problem/blob/main/topic/p10415.pdf)|1星題|
-|**UVa 10420**| List of Conquests |[UVa-10420.c](https://github.com/mathlover111/CPE-Problem/blob/main/UVa-10420.c)|[題目說明](https://github.com/mathlover111/CPE-Problem/blob/main/topic/p10420.pdf)| 1星題 |
-|**UVa 10812**| Beat the Spread!|[UVa-10812.c](https://github.com/mathlover111/CPE-Problem/blob/main/UVa-10812.c)|[題目說明](https://github.com/mathlover111/CPE-Problem/blob/main/topic/p10812.pdf)|1星題|
-|**UVa 10929** |You can say 11|[UVa-10929.c](https://github.com/mathlover111/CPE-Problem/blob/main/UVa-10929.c)|[題目說明](https://github.com/mathlover111/CPE-Problem/blob/main/topic/p10929.pdf)|1星題|
-|**UVa 10041** |Vito's Family|[UVa-10041.c](https://github.com/mathlover111/CPE-Problem/blob/main/UVa-10041.c)|[題目說明](https://github.com/mathlover111/CPE-Problem/blob/main/topic/p10041.pdf)|1星題|
-|**UVa 10908**| Largest Square |[UVa-10908.c](https://github.com/mathlover111/CPE-Problem/blob/main/UVa-10908.c)|[題目說明](https://github.com/mathlover111/CPE-Problem/blob/main/topic/p10908.pdf)|1星題|
-|**UVa 11332** | Summing Digits|[UVa-11332.c](https://github.com/mathlover111/CPE-Problem/blob/main/UVa-11332.c)|[題目說明](https://github.com/mathlover111/CPE-Problem/blob/main/topic/p11332.pdf)|1星題|
-|**UVa 10056** | What is the Probability?|[UVa-10056.c](https://github.com/mathlover111/CPE-Problem/blob/main/UVa-10056.c)|[題目說明](https://github.com/mathlover111/CPE-Problem/blob/main/topic/p10056.pdf)|1星題|
-|**UVa 10093**| An Easy Problem!|[UVa-10093.c](https://github.com/mathlover111/CPE-Problem/blob/main/UVa-10093.c)|[題目說明](https://github.com/mathlover111/CPE-Problem/blob/main/topic/p10093.pdf)|1星題|
-|**UVa 10050**|Hartals|[UVa-10050.c](https://github.com/mathlover111/CPE-Problem/blob/main/UVa-10050.c)|[題目說明](https://github.com/mathlover111/CPE-Problem/blob/main/topic/p10050.pdf)|1星題|
-|**UVa 10062**|	Tell me the frequencies!|[UVa-10062.c](https://github.com/mathlover111/CPE-Problem/blob/main/UVa-10062.c)|[題目說明](https://github.com/mathlover111/CPE-Problem/blob/main/topic/p10062.pdf)|1星題|
-|**UVa 10170**|The Hotel with Infinite Rooms|[UVa-10170.c](https://github.com/mathlover111/CPE-Problem/blob/main/UVa-10170.c)|[題目說明](https://github.com/mathlover111/CPE-Problem/blob/main/topic/p10170.pdf)|1星題|
-|**UVa 10268**|498-bis|[UVa-10268.c](https://github.com/mathlover111/CPE-Problem/blob/main/UVa-10268.c)|[題目說明](https://github.com/mathlover111/CPE-Problem/blob/main/topic/p10268.pdf)|1星題|
-|**UVa 10193**|All you need is love|[UVa-10193.c](https://github.com/mathlover111/CPE-Problem/blob/main/UVa-10193.c)|[題目說明](https://github.com/mathlover111/CPE-Problem/blob/main/topic/p10193.pdf)|1星題|
-|**UVa 10221**|Satellites|[UVa-10221.c](https://github.com/mathlover111/CPE-Problem/blob/main/UVa-10221.c)|[題目說明](https://github.com/mathlover111/CPE-Problem/blob/main/topic/p10221.pdf)|1星題|
-|**UVa 11005**|Cheapst Base|[UVa-11005.c]()|[題目說明]()|1星題|
-|**UVa 11321**|Sort!Sort! and Sort|[UVa-11321.c]()|[題目說明]()|1星題|
-|**UVa 10226**|Hardwood Species|[UVa-10226.c](https://github.com/mathlover111/CPE-Problem/blob/main/UVa-10226.c)|[題目說明](https://github.com/mathlover111/CPE-Problem/blob/main/topic/p10226.pdf)|1星題|
-|**UVa 10189**|Minesweeper|[UVa-10189.c](https://github.com/mathlover111/CPE-Problem/blob/main/UVa-10189.c)|[題目說明](https://github.com/mathlover111/CPE-Problem/blob/main/topic/p10189.pdf)|1星題|
+| 題號 | 題目名稱 | 連結 | 題目 | 描述 |-_-|
+| :---: | :--- | :---: |:---: | :---:|:---:|
+| **UVa 100** | The 3n + 1 problem | [Uva-100.c](https://github.com/mathlover111/CPE-Problem/blob/main/Uva-100.c) ||1星題|1|
+| **UVa 272** | TEX Quotes | [Uva-272.c](https://github.com/mathlover111/CPE-Problem/blob/main/Uva-272.c) ||1星題|2|
+| **UVa 299** | Train Swapping | [Uva-299.c](https://github.com/mathlover111/CPE-Problem/blob/main/Uva-299.c) ||1星題|3|
+| **UVa 10008** | What's Cryptanalysis | [Uva-10008.c](https://github.com/mathlover111/CPE-Problem/blob/main/Uva-10008.c) ||1星題|4|
+| **UVa 10242** | Fourth Point! | [Uva-10242.c](https://github.com/mathlover111/CPE-Problem/blob/main/Uva-10242.c) ||1星題|5|
+| **UVa 10071** | Back to High School Physics | [Uva-10071.c](https://github.com/mathlover111/CPE-Problem/blob/main/Uva-10071.c) ||1星題|6|
+| **UVa 10783** | Odd Sum | [Uva-10783.c](https://github.com/mathlover111/CPE-Problem/blob/main/Uva-10783.c) ||1星題|7|
+| **UVa 10931** | Parity  | [Uva-10931.c](https://github.com/mathlover111/CPE-Problem/blob/main/Uva-10931.c) ||1星題|8|
+| **UVa 10035** | Primary Arithmetic |  [Uva-10035.c](https://github.com/mathlover111/CPE-Problem/blob/main/Uva-10035.c)||1星題|9|  
+| **UVa 10235** | Simply Emirp | [Uva-10235.c](https://github.com/mathlover111/CPE-Problem/blob/main/Uva-10235.c)||1星題|10|
+| **UVa 10922** | 2 the 9s | [Uva-10922.c](https://github.com/mathlover111/CPE-Problem/blob/main/Uva-10922.c)| |1星題|11|
+| **UVa 10038** | Jolly Jumpers | [Uva-10038.c](https://github.com/mathlover111/CPE-Problem/blob/main/Uva-10038.c) ||1星題|12|
+| **UVa 10190** | Divide, But Not Quite Conquer! | [Uva-10190.c](https://github.com/mathlover111/CPE-Problem/blob/main/Uva-10190.c) ||1星題|13|
+| **UVa 10101** |  Bangla Numbers | [Uva-10101.c](https://github.com/mathlover111/CPE-Problem/blob/main/Uva-10101.c)  ||1星題|14|
+| **UVa 11461** | Square Numbers | [Uva-11461.c](https://github.com/mathlover111/CPE-Problem/blob/main/Uva-11461.c)||1星題|15|
+| **UVa 11063** | B2-Sequence |[Uva-11063.c](https://github.com/mathlover111/CPE-Problem/blob/main/Uva-11063.c)||1星題|16|
+| **UVa 00490** | Rotating Sentences | [Uva-00490.c](https://github.com/mathlover111/CPE-Problem/blob/main/Uva-00490.c) |[題目說明](https://github.com/mathlover111/CPE-Problem/blob/main/topic/p490.pdf)|1星題|17|
+| **UVa 10057** | A mid-summer night's dream.|[Uva-10057.c](https://github.com/mathlover111/CPE-Problem/blob/main/Uva-10057.c) |[題目說明](https://github.com/mathlover111/CPE-Problem/blob/main/topic/p10057.pdf)|1星題|18|
+| **UVa 10642**|	Can You Solve It? |[Uva-10642.c](https://github.com/mathlover111/CPE-Problem/blob/main/Uva-10642.c)|[題目說明](https://github.com/mathlover111/CPE-Problem/blob/main/topic/p10642.pdf)|1星題|19|
+| **UVa 00948** | Fibonaccimal Base |[Uva-00948.c](https://github.com/mathlover111/CPE-Problem/blob/main/Uva-00948.c) |[題目說明](https://github.com/mathlover111/CPE-Problem/blob/main/topic/p948.pdf) |1星題|20|
+|**UVa 10222**| Decode the Mad man |[Uva-10222.c](https://github.com/mathlover111/CPE-Problem/blob/main/Uva-10222.c) |[題目說明](https://github.com/mathlover111/CPE-Problem/blob/main/topic/p10222.pdf)|1星題|21|
+|**UVa 00118**| Mutant Flatworld Explorers |[Uva-00118.c](https://github.com/mathlover111/CPE-Problem/blob/main/Uva-00118.c)|[題目說明](https://github.com/mathlover111/CPE-Problem/blob/main/topic/p118.pdf)|1星題|22|  
+|**UVa 10409**| Die Game |[Uva-10409.c](https://github.com/mathlover111/CPE-Problem/blob/main/Uva-10409.c)|[題目說明](https://github.com/mathlover111/CPE-Problem/blob/main/topic/p10409.pdf)|1星題|23|
+|**UVa 11349**| Symmetric Matrix |[Uva-11349.c](https://github.com/mathlover111/CPE-Problem/blob/main/Uva-11349.c)|[題目說明](https://github.com/mathlover111/CPE-Problem/blob/main/topic/p11349.pdf)|1星題|24|
+|**UVa 11417**| GCD |[Uva-11417.c](https://github.com/mathlover111/CPE-Problem/blob/main/Uva-11417.c)|[題目說明](https://github.com/mathlover111/CPE-Problem/blob/main/topic/p11417.pdf)|1星題|25|
+| **UVa 11150**| Cola |[UVa-11150.c](https://github.com/mathlover111/CPE-Problem/blob/main/UVa-11150.c)|[題目說明](https://github.com/mathlover111/CPE-Problem/blob/main/topic/p11150.pdf)|1星題|26|
+|**UVa 10415**|Eb Alto Saxophone Player|[UVa-10415.c](https://github.com/mathlover111/CPE-Problem/blob/main/UVa-10415.c)|[題目說明](https://github.com/mathlover111/CPE-Problem/blob/main/topic/p10415.pdf)|1星題|27|
+|**UVa 10420**| List of Conquests |[UVa-10420.c](https://github.com/mathlover111/CPE-Problem/blob/main/UVa-10420.c)|[題目說明](https://github.com/mathlover111/CPE-Problem/blob/main/topic/p10420.pdf)| 1星題 |28|
+|**UVa 10812**| Beat the Spread!|[UVa-10812.c](https://github.com/mathlover111/CPE-Problem/blob/main/UVa-10812.c)|[題目說明](https://github.com/mathlover111/CPE-Problem/blob/main/topic/p10812.pdf)|1星題|29|
+|**UVa 10929** |You can say 11|[UVa-10929.c](https://github.com/mathlover111/CPE-Problem/blob/main/UVa-10929.c)|[題目說明](https://github.com/mathlover111/CPE-Problem/blob/main/topic/p10929.pdf)|1星題|30|
+|**UVa 10041** |Vito's Family|[UVa-10041.c](https://github.com/mathlover111/CPE-Problem/blob/main/UVa-10041.c)|[題目說明](https://github.com/mathlover111/CPE-Problem/blob/main/topic/p10041.pdf)|1星題|31|
+|**UVa 10908**| Largest Square |[UVa-10908.c](https://github.com/mathlover111/CPE-Problem/blob/main/UVa-10908.c)|[題目說明](https://github.com/mathlover111/CPE-Problem/blob/main/topic/p10908.pdf)|1星題|32|
+|**UVa 11332** | Summing Digits|[UVa-11332.c](https://github.com/mathlover111/CPE-Problem/blob/main/UVa-11332.c)|[題目說明](https://github.com/mathlover111/CPE-Problem/blob/main/topic/p11332.pdf)|1星題|33|
+|**UVa 10056** | What is the Probability?|[UVa-10056.c](https://github.com/mathlover111/CPE-Problem/blob/main/UVa-10056.c)|[題目說明](https://github.com/mathlover111/CPE-Problem/blob/main/topic/p10056.pdf)|1星題|34|
+|**UVa 10093**| An Easy Problem!|[UVa-10093.c](https://github.com/mathlover111/CPE-Problem/blob/main/UVa-10093.c)|[題目說明](https://github.com/mathlover111/CPE-Problem/blob/main/topic/p10093.pdf)|1星題|35|
+|**UVa 10050**|Hartals|[UVa-10050.c](https://github.com/mathlover111/CPE-Problem/blob/main/UVa-10050.c)|[題目說明](https://github.com/mathlover111/CPE-Problem/blob/main/topic/p10050.pdf)|1星題|36|
+|**UVa 10062**|	Tell me the frequencies!|[UVa-10062.c](https://github.com/mathlover111/CPE-Problem/blob/main/UVa-10062.c)|[題目說明](https://github.com/mathlover111/CPE-Problem/blob/main/topic/p10062.pdf)|1星題|37|
+|**UVa 10170**|The Hotel with Infinite Rooms|[UVa-10170.c](https://github.com/mathlover111/CPE-Problem/blob/main/UVa-10170.c)|[題目說明](https://github.com/mathlover111/CPE-Problem/blob/main/topic/p10170.pdf)|1星題|38|
+|**UVa 10268**|498-bis|[UVa-10268.c](https://github.com/mathlover111/CPE-Problem/blob/main/UVa-10268.c)|[題目說明](https://github.com/mathlover111/CPE-Problem/blob/main/topic/p10268.pdf)|1星題|39|
+|**UVa 10193**|All you need is love|[UVa-10193.c](https://github.com/mathlover111/CPE-Problem/blob/main/UVa-10193.c)|[題目說明](https://github.com/mathlover111/CPE-Problem/blob/main/topic/p10193.pdf)|1星題|40|
+|**UVa 10221**|Satellites|[UVa-10221.c](https://github.com/mathlover111/CPE-Problem/blob/main/UVa-10221.c)|[題目說明](https://github.com/mathlover111/CPE-Problem/blob/main/topic/p10221.pdf)|1星題|41|
+|**UVa 11005**|Cheapst Base|[UVa-11005.c]()|[題目說明]()|1星題|42|
+|**UVa 11321**|Sort!Sort! and Sort|[UVa-11321.c]()|[題目說明]()|1星題|43|
+|**UVa 10226**|Hardwood Species|[UVa-10226.c](https://github.com/mathlover111/CPE-Problem/blob/main/UVa-10226.c)|[題目說明](https://github.com/mathlover111/CPE-Problem/blob/main/topic/p10226.pdf)|1星題|44|
+|**UVa 10189**|Minesweeper|[UVa-10189.c](https://github.com/mathlover111/CPE-Problem/blob/main/UVa-10189.c)|[題目說明](https://github.com/mathlover111/CPE-Problem/blob/main/topic/p10189.pdf)|1星題|45|
