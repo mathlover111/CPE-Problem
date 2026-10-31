@@ -49,3 +49,5 @@
 |**UVa 10189**|Minesweeper|[UVa-10189.c](https://github.com/mathlover111/CPE-Problem/blob/main/UVa-10189.c)|[題目說明](https://github.com/mathlover111/CPE-Problem/blob/main/topic/p10189.pdf)|1星題|45|
 |**UVa 10019**|Funny Encryption Method|[UVa-10019.c](https://github.com/mathlover111/CPE-Problem/blob/main/UVa-10019.c)|[題目說明](https://github.com/mathlover111/CPE-Problem/blob/main/topic/p10019.pdf)|1星題|46|
 |**UVa 10055**|Hashmat the Brave Warrior|[UVa-10055.c](https://github.com/mathlover111/CPE-Problem/blob/main/UVa-10055.c)|[題目說明](https://github.com/mathlover111/CPE-Problem/blob/main/topic/p10055.pdf)|1星題|47|
+|**UVa 10252**|Common Permutation|[UVa-10252.c](https://github.com/mathlover111/CPE-Problem/blob/main/UVa-10252.c)|[題目說明](https://github.com/mathlover111/CPE-Problem/blob/main/topic/p10252.pdf)|1星題|48|
+|**UVa 12019**|Doom's Day Algorithm|[UVa-12019.c](https://github.com/mathlover111/CPE-Problem/blob/main/UVa-12019.c)|[題目說明](https://github.com/mathlover111/CPE-Problem/blob/main/topic/p12019.pdf)|1星題|49|
