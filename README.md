@@ -45,3 +45,4 @@
 |**UVa 10221**|Satellites|[UVa-10221.c](https://github.com/mathlover111/CPE-Problem/blob/main/UVa-10221.c)|[題目說明](https://github.com/mathlover111/CPE-Problem/blob/main/topic/p10221.pdf)|1星題|
 |**UVa 11005**|Cheapst Base|[UVa-11005.c]()|[題目說明]()|1星題|
 |**UVa 11321**|Sort!Sort! and Sort|[UVa-11321.c]()|[題目說明]()|1星題|
+|**UVa 10226**| |[UVa-10226.c](https://github.com/mathlover111/CPE-Problem/blob/main/UVa-10226.c)|[題目說明](https://github.com/mathlover111/CPE-Problem/blob/main/topic/p10226.pdf)|1星題|
