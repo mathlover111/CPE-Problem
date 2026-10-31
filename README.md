@@ -48,3 +48,4 @@
 |**UVa 10226**|Hardwood Species|[UVa-10226.c](https://github.com/mathlover111/CPE-Problem/blob/main/UVa-10226.c)|[題目說明](https://github.com/mathlover111/CPE-Problem/blob/main/topic/p10226.pdf)|1星題|44|
 |**UVa 10189**|Minesweeper|[UVa-10189.c](https://github.com/mathlover111/CPE-Problem/blob/main/UVa-10189.c)|[題目說明](https://github.com/mathlover111/CPE-Problem/blob/main/topic/p10189.pdf)|1星題|45|
 |**UVa 10019**|Funny Encryption Method|[UVa-10019.c](https://github.com/mathlover111/CPE-Problem/blob/main/UVa-10019.c)|[題目說明](https://github.com/mathlover111/CPE-Problem/blob/main/topic/p10019.pdf)|1星題|46|
+|**UVa 10055**|Hashmat the Brave Warrior|[UVa-10055.c](https://github.com/mathlover111/CPE-Problem/blob/main/UVa-10055.c)|[題目說明](https://github.com/mathlover111/CPE-Problem/blob/main/topic/p10055.pdf)|1星題|47|
