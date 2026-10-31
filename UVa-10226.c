@@ -1,44 +1,61 @@
 #include <stdio.h>
 #include <string.h>
 
-char names[100005][35];
-char tmp[35];
+struct Tree {
+    char name[35];
+    int cnt;
+} t[10005];
+
+char line[35], tmp[35];
 
 int main() {
-    int t, n, i, j, cnt, k;
+    int n, i, j, k, num_types, total, found, tmp_cnt;
 
-    if (scanf("%d", &t) != EOF) {
+    if (scanf("%d", &n) != EOF) {
         getchar();
-        gets(tmp);
+        gets(tmp); 
 
-        for (k = 0; k < t; k++) {
+        for (k = 0; k < n; k++) {
             if (k > 0) printf("\n");
 
-            n = 0;
-            while (gets(names[n]) != NULL && names[n][0] != '\0') {
-                n++;
+            num_types = 0;
+            total = 0;
+
+            while (gets(line) != NULL && line[0] != '\0') {
+                total++;
+                found = 0;
+
+                for (i = 0; i < num_types; i++) {
+                    if (strcmp(t[i].name, line) == 0) {
+                        t[i].cnt++;
+                        found = 1;
+                        break;
+                    }
+                }
+
+                if (!found) {
+                    strcpy(t[num_types].name, line);
+                    t[num_types].cnt = 1;
+                    num_types++;
+                }
             }
 
-            for (i = 0; i < n - 1; i++) {
-                for (j = i + 1; j < n; j++) {
-                    if (strcmp(names[i], names[j]) > 0) {
-                        strcpy(tmp, names[i]);
-                        strcpy(names[i], names[j]);
-                        strcpy(names[j], tmp);
+            for (i = 0; i < num_types - 1; i++) {
+                for (j = i + 1; j < num_types; j++) {
+                    if (strcmp(t[i].name, t[j].name) > 0) {
+                        strcpy(tmp, t[i].name);
+                        strcpy(t[i].name, t[j].name);
+                        strcpy(t[j].name, tmp);
+
+                        tmp_cnt = t[i].cnt;
+                        t[i].cnt = t[j].cnt;
+                        t[j].cnt = tmp_cnt;
                     }
                 }
             }
 
-            cnt = 1;
-            for (i = 0; i < n; i++) {
-            
-                if (i + 1 < n && strcmp(names[i], names[i + 1]) == 0) {
-                    cnt++;
-                } else {
-                  
-                    printf("%s %.4f\n", names[i], (double)cnt * 100.0 / n);
-                    cnt = 1;
-                }
+            for (i = 0; i < num_types; i++) {
+                printf("%s %.4f\n", t[i].name, (double)t[i].cnt * 100.0 / total);
             }
         }
     }
