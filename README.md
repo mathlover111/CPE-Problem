@@ -1,5 +1,5 @@
 ## 這是一個CPE題目解題，採用C語言進行撰寫
-
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 | 題號 | 題目名稱 | 連結 | 題目 | 描述 |-_-|
 | :---: | :--- | :---: |:---: | :---:|:---:|
 | **UVa 100** | The 3n + 1 problem | [Uva-100.c](https://github.com/mathlover111/CPE-Problem/blob/main/Uva-100.c) ||1星題|1|
